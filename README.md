@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **cajsaschold/cajsaschold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +15,11 @@ Here are some ideas to get you started:
 -->
 
 # About Me:
-I’m a final-year MSc student in Machine Learning and AI at Linköping University, with a BSc in Biotechnology. I’m currently writing my master’s thesis at the Technical University of Denmark (DTU), focusing on deep learning for computer vision. 
+I’m a final-year MSc student in Machine Learning and AI at Linköping University, with a BSc in Biotechnology.   
+I’m currently writing my master’s thesis at the Technical University of Denmark (DTU), focusing on deep learning for computer vision. 
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cajsaschold) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cajsa.schold@gmail.com) 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cajsaschold)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cajsa.schold@gmail.com)
 
