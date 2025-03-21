@@ -19,7 +19,7 @@ I’m a final-year MSc student in Machine Learning and AI at Linköping Universi
 
 
 # Socials:
-Feel free to reach out if you'd like to connect or discuss opportunities in machine learning, AI, or related fields.
+Feel free to reach out if you'd like to connect or discuss opportunities in machine learning, AI, or related fields.  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cajsaschold)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cajsa.schold@gmail.com)
 
